@@ -2,7 +2,7 @@
 ### January 11-12, 2019  
 
 ## What are OpenCon and OpenCon Cascadia?
-OpenCon is a conference and a global community dedicated to advancing open research and education. OpenCon Cascadia is a satellite of OpenCon free conference designed to foster the growth of Pacific Northwest communities that are making research and scholarship more open, inclusive, and reusable. Inspired by the success and focus of the international OpenCon conference, this satellite event will realize the following interrelated outcomes:
+OpenCon is a conference and a global community dedicated to advancing open research and education. OpenCon Cascadia is a satellite of OpenCon, designed to foster the growth of Pacific Northwest communities that are making research and scholarship more open, inclusive, and reusable. Inspired by the success and focus of the international OpenCon conference, this satellite event will realize the following interrelated outcomes:
 
 * Community Building: We will showcase existing regional work and projects related to open data, open access, and open education. Our goal is to create connections between individuals and organizations operating in different domain areas, such as basic science researchers, computational scientists, students, funders, librarians, and academic administrators.  
 
